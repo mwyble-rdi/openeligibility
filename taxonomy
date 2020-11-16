@@ -148,10 +148,10 @@
 	            <third_level id="1168" title="Supplies for Work">
 				</third_level>
 			</second_level>
-	        <second_level id="1169" title="Medical Supplies">
-	        </second_level>
-		        <third_level id="1170" title="Assistive Technology">
-					</third_level>
+			<second_level id="1169" title="Medical Supplies">
+	            <third_level id="1170" title="Assistive Technology">
+				</third_level>
+			</second_level>
 			<second_level id="1171" title="Toys &amp; Gifts">
 			</second_level>
 		</top_level>
